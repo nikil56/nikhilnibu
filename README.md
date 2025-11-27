@@ -1,10 +1,15 @@
-Hi, I'm Nikhil 👋  
-Full-Stack & AI/ML Developer | Python | NLP | Node.js | AWS | Docker | Kubernetes
+<h1 align="center">Hi 👋, I'm Nikhil Nibu</h1>
+<h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast | AI/NLP Developer</h3>
 
-I'm a final-year IT student passionate about building scalable applications, automation systems, and AI-driven tools.  
-I enjoy applying NLP, backend engineering, and cloud technologies to solve real-world problems.
+<p align="center">
+Final-year IT student passionate about backend engineering, cloud-native applications, and AI-powered automation.<br/>
+I enjoy working with scalable architectures, DevOps pipelines, and NLP-driven intelligent systems.
+</p>
 
-Currently working on **Fact-Based Comparison of News Articles Across Media Channels** — an NLP project using text preprocessing, boilerplate removal, topic modeling, and similarity analysis.
+<p align="center">
+<strong>Currently building:</strong> Fact-Based Comparison of News Articles Across Media Channels — an AI/NLP project using Web2Text, text preprocessing, topic modelling, and semantic similarity analysis.
+</p>
+
 
 ---
 
@@ -68,12 +73,11 @@ Multiple Python GUI tools developed using Tkinter for automation.
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- 👨‍💼 LinkedIn: *(add your link here)*  
-- 📧 Email: **yourmail@gmail.com**  
-- 🌎 Portfolio (optional): add later  
-- 📝 Resume: upload PDF & paste link here
+- 🔗 **LinkedIn:** https://linkedin.com/in/nikhilnibu  
+- 🐙 **GitHub:** https://github.com/nikil56  
+- 📧 **Email:** nikhilnibu616@gmail.com  
 
 ---
 
