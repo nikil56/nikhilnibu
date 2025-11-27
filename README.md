@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikhil Nibu</h1>
-<h3 align="center">Aspiring Software Developer | Full-Stack | DevOps | AI/ML Enthusiast</h3>
+Hi, I'm Nikhil 👋  
+Full-Stack & AI/ML Developer | Python | NLP | Node.js | AWS | Docker | Kubernetes
+
+I'm a final-year IT student passionate about building scalable applications, automation systems, and AI-driven tools.  
+I enjoy applying NLP, backend engineering, and cloud technologies to solve real-world problems.
+
+Currently working on **Fact-Based Comparison of News Articles Across Media Channels** — an NLP project using text preprocessing, boilerplate removal, topic modeling, and similarity analysis.
 
 ---
 
