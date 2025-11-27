@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nikhil Nibu</h1>
-<h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast | AI/NLP Developer</h3>
+# Hi, I'm Nikhil 👋  
+**Full-Stack & DevOps Developer | Python | JavaScript | Node.js | AWS | Docker | Kubernetes**
 
-<p align="center">
-Final-year IT student passionate about backend engineering, cloud-native applications, and AI-powered automation.<br/>
-I enjoy working with scalable architectures, DevOps pipelines, and NLP-driven intelligent systems.
-</p>
+I'm a final-year IT student passionate about building scalable web applications, cloud-powered systems, and automation workflows.  
+I enjoy working with full-stack technologies, CI/CD pipelines, cloud services, and developing real-world solutions that improve efficiency.
 
-<p align="center">
-<strong>Currently building:</strong> Fact-Based Comparison of News Articles Across Media Channels — an AI/NLP project using Web2Text, text preprocessing, topic modelling, and semantic similarity analysis.
-</p>
+Currently working on **Fact-Based Comparison of News Articles Across Media Channels** —  
+an NLP-powered project involving SBert, text preprocessing, boilerplate removal, topic modelling, and semantic similarity analysis.
+
 
 
 ---
 
-### 🚀 About Me
-- 🎯 I'm preparing for **Cognizant 2026** hiring & sharpening my development skills  
-- 💡 I love building **web apps, automation tools, AI/ML projects, and DevOps pipelines**  
-- 🌱 Currently learning: **C#, Java, Spring Boot, Docker, Kubernetes, CI/CD**  
-- 🔥 Goal: Become a **strong full-stack + cloud engineer**
+## 🚀 About Me  
+- 🎓 B.Tech student in Information Technology  
+- 💡 Love building full-stack applications, cloud-native systems, and automation tools  
+- 💼 Actively applying for software engineering & DevOps roles  
+- 🧩 Strong interest in backend development, cloud technologies, and system design  
+- 📚 Always exploring new tools: AWS services, Docker, Kubernetes, Terraform, and CI/CD pipelines  
+
 
 ---
 
@@ -46,7 +46,7 @@ I enjoy working with scalable architectures, DevOps pipelines, and NLP-driven in
 ### 📌 Featured Projects
 
 #### 🔹 **A&A Engineering Works – Full-Stack Website**
-A live engineering company website with dynamic images, admin panel, MongoDB storage & Node.js backend.  
+A live engineering company website with dynamic images, an admin panel, MongoDB storage & Node.js backend.  
 ➡️ *Tech:* HTML, CSS, JS, Node.js, Express, MongoDB
 
 #### 🔹 **CI/CD Pipeline using GitHub → Jenkins → Docker**
@@ -58,9 +58,7 @@ A conversational chatbot built using Python + NLP logic.
 ➡️ *Tech:* Python, NLP, Tkinter
 
 #### 🔹 **GUI Applications (Python)**
-Multiple Python GUI tools developed using Tkinter for automation.
-
-👉 *Pin these projects on your GitHub for better visibility.*
+Multiple Python GUI tools were developed using Tkinter for automation.
 
 ---
 
